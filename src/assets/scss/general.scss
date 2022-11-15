@@ -1,0 +1,17 @@
+@import './partials/variables';
+@import "node_modules/bootstrap/scss/bootstrap";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #2e3a46;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 15px;
+}
